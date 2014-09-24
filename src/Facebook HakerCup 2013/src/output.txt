@@ -1,0 +1,5 @@
+Case #1: 39
+Case #2: 75
+Case #3: 49
+Case #4: 0
+Case #5: 19
